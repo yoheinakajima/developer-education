@@ -1,0 +1,72 @@
+HOW TO WRITE AN API
+***********************************
+
+OVERVIEW
+
+Public APIs allow other developers to build products that communicate with your product, and they can help increase both the quality and reach of your product. Facebook's "Like" button you see on almost every site today is an example of how Facebook's API increased activity on the social network. There are a lot of benefits to writing an API for your product even before you're ready to release a Public API.
+
+The purpose of the Github document is to collaborate on topics that should be covered in a course that teaches someone how to write their own API.
+
+GETTING STARTED
+
+As of now, I am still working on the first draft. I hope to share this for collaboration once it's done. Thanks for the patience. Also, don't hesitate to suggest how I can do this better, since I've far from mastered Github.
+
+
+CHAPTERS
+
+1. Why writing an API is important
+    a. Clean separation of data from code.
+        a.1. Better for scaling and switching databases.
+        a.2. Helps enforce cleaner code.
+        a.3. Allows for smoother integration with third party services.
+    b. Successful APIs help capture new customers.
+    
+2. Characteristics of a good API
+    a. Easy to use, hard to misuse.
+    b. Does just enough, but no more.
+    c. Sufficieently powerful.
+    d. Well documented.
+
+3. Process
+    a. Start with use case.
+    b. Write short spec and get thorough feedback.
+    c. Write your API.
+    d. Test, fix, test, fix, test, fix...
+    e. Once you feel ready, document thoroughly.
+    f. Integrate API into product.
+    g. *Optional: Release Public API
+
+4. The simplest API
+    a. 
+    b.
+    c.
+    d.
+
+
+
+
+
+    
+ADDITIONAL RESOURCES
+- How to Design a Good API and Why It Matters (http://lcsd05.cs.tamu.edu/slides/keynote.pdf)
+- How to Design an API: best practices, concepts, technical aspects (http://piwik.org/blog/2008/01/how-to-design-an-api-best-practises-concepts-technical-aspects/)
+- How to Add an API to Your Web Service (http://www.particletree.com/features/how-to-add-an-api-to-your-web-service/)
+- A Coder's Guide to Writing API Documentation (http://msdn.microsoft.com/en-us/magazine/gg309172.aspx)
+- Designing Better Javascript APIs (http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
